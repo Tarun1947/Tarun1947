@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tarun1947
+- 👋 Hi, I’m @Tarun P D
 - 👀 I’m interested in IC design
 - 🌱 I’m currently learning physical design cource
 - 💞️ I’m looking to collaborate on 2024

@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tarun P D
 - 👀 I’m interested in IC design
 - 🌱 I’m currently learning physical design cource
-- 💞️ I’m looking to collaborate on 2024
 - 📫 How to reach me pdtarun596@gmail.com
 
 <!---

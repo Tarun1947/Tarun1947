@@ -1,4 +1,5 @@
-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I’m @Tarun P D
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tarun P D
+======================================================================================================================================
 - 👀 I’m interested in IC design
 - 📫 How to reach me pdtarun596@gmail.com
 
